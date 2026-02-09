@@ -1,4 +1,5 @@
 # sora
+<<<<<<< HEAD
 
 Sora Transport - Application de Réservation de Billets de Bus.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Sora Transport - Application de Réservation de Billets de Bus.
+>>>>>>> 317b729636e051772cc890f0b9efc54e98b2fe80
